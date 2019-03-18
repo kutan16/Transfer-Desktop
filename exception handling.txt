@@ -1,0 +1,24 @@
+try
+catch
+throw
+throws
+finally
+			object
+			|
+			|
+			throwable
+			|
+	________________|________________
+	|				|
+	error				exception
+					|
+					|
+			________________ ________________
+			|				|
+			unchecked		checked
+			[runtime expception]	[ioexception]
+				|			|
+				|			|
+			nullpointer
+			arithmetic
+			arrayindexoutofbound

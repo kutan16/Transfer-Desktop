@@ -1,0 +1,22 @@
+java 5 features
+______________
+-annotation
+-enum
+-scanner
+-var args
+-enhance forloop
+-static input
+-StringBuilder
+
+
+jdk 6 & 7 features
+_________________
+-try with resource
+-multi catch
+
+
+java 8 features
+_______________
+-lambda expression
+-string api
+-local date classes

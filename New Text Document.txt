@@ -1,0 +1,29 @@
+bean
+-----
+customer
+plan
+postpaidaccount  -  bill,plan
+bill
+
+dao
+----
+customerDAO
+postpaidaccountDAO
+
+
+
+mobilebilling
+-------------
+	customer
+		customerId,firstName,lastName,emailId,adharNo,pancardNo,dateOfBirth
+	Address
+		city,state,pinCode,country
+	PostPaidAccount
+		mobileNumber
+	
+
+
+
+
+
+all case study with JPAHibernate and Junit

@@ -1,0 +1,98 @@
+as an user, I want a search functionality that is more accurate based on common friends so that i can find who i am searching for faster.
+given I am already signed In
+when i type the name in search bar
+then the common result comes in the search
+
+as an user, I want a functionality where i can stream movies
+
+as an user, I want a functionality where i can create and use custom emojis in comments so that it I do not have to go to any external website for that purpose.
+
+as an user, i want net banking facility
+given i have netbanking credentials
+when i enter valid username and password in netbanking portal
+then the portal will allow me to use net banking
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3 functionality for banking 
+means 3 features for banking
+each feature should start with dherkin keyword
+
+
+Feature:	Login feature for user
+Scenario:	When the user logins to a banking website then the OTP should be asked for confirmation
+Given		User is at the login page
+When		User inputs his/her credentials for login 
+Then		OTP is asked for the confirmation of login
+
+
+Feature:	Search feature for user
+Scenatio:	When the user searches for specific date in transactions list
+Given		User is on the Transactions page
+When		User searches for a specific date to check the transactions
+Then		The transaction details for that specific date is displayed
+
+
+Feature:	github login feature/registration
+Scenatio:	invalid user/valid pass and vice versa and valid all
+Given		
+When		
+Then		
+
+
+Feature:	github login feature
+Scenario:	When the username and password are both valid
+Given		User is on the Login page
+When		User Enter valid username and valid passowrd
+Then		Login is successful and user gets redirected to his/her account
+
+
+
+Feature:	github login feature
+Scenario:	When the username is invalid and password is valid
+Given		User is on the Login page
+When		User Enter invalid username and valid passowrd
+Then		Login is Unsuccessful and user gets a "username/password is incorrect" message
+
+
+
+Feature:	github login feature
+Scenario:	When the username is valid and password is invalid
+Given		User is on the Login page
+When		User Enter valid username and invalid passowrd
+Then		Login is unsuccessful and user gets a "username/password is incorrect" messgae
+
+
+
+Feature:	github Registration
+Scenario:	When the username and password are both valid
+Given		User is on the Login page
+When		User Enter valid username and valid passowrd
+Then		Login is successful and user gets redirected to his/her account
+
+
+
+			self learning
+			---------------
+			agile
+			_____
+			agile methodology
+			scrum master profile
+			role of scrum master in agile
+			user stories
+			sprint planning
+			retrospection
+			burn down chart
+			poker planning
+			daily standup
+			scrumboard
+			kanban/jira
+			role of product owner
+			velocity
+			sprint backlog
+
+
+
+
+(scrum master role to be played)
+
+x-path

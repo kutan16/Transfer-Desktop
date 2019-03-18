@@ -1,0 +1,43 @@
+1.1
+
+	object :-
+		professor,location,lecture halls,workshops,seminar rooms,theoritical,practical,thesis,qualification,discrete
+
+	class :-
+		courses, grade,marks,pre requisite test,mid level test,semester test,
+
+
+
+
+
+3.1
+	CUSTOMER - Registered (generalization)
+	CUSTOMER - order	(aggregation)
+	CUSTOMER - credit card/net banking (aggregation)
+
+	PRODUCTS - Indian garment (aggregation)
+	PRODUCTS - Western garment (aggregation)
+
+	ORDERS - product (aggregation)
+
+
+
+3.2
+	DECK - 54 cards (aggregation)
+	DECK - joker card (aggregation)
+
+	CARD is-a red (generalization)
+	CARD is-a black (generalization)
+	CARD - number (aggregation)
+	CARD - king,queen,jack,ace (aggregation)
+
+	RED - diamonds (aggregation)
+	RED - hearts (aggregation)
+
+	BLACK - spades (aggregation)
+	BLACK - clover/clubs (aggregation)
+
+	SET - 13 card (aggregation)
+
+
+
